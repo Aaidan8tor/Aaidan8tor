@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 check this out https://player.twitch.tv/?channel=ttv_aaidan8tor&parent=www.example.com
 
 <!--
 **Aaidan8tor/Aaidan8tor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
